@@ -1,9 +1,6 @@
-# Illustration of presynaptic inhibition in the brain
+# Presynaptic inhibition in the brain: biological basis and functional implications
 
 Submission to scientific.illustrations.
-
-**Title:** Presynaptic inhibition in the brain: biological basis and functional implications
-
 
 **Author(s):** Laura B. Naumann <sup> 1 </sup>
 
