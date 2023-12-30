@@ -58,10 +58,3 @@ Wood, K. C., Blackwell, J. M., & Geffen, M. N. (2017). Cortical inhibitory inter
 
 Wu, L. G., & Saggau, P. (1997). Presynaptic inhibition of elicited neurotransmitter release. Trends in neurosciences, 20(5), 204-212.
 
-
-
-
-#### Access rights
-
-This illustration is available under the open access licence CC-BY-NC.
-
